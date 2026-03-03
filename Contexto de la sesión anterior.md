@@ -1,49 +1,61 @@
-Estamos migrando la biblia del proyecto desde PDFs a un sistema modular en Obsidian sincronizado con GitHub.
+## Repo del proyecto
+https://github.com/Maryluuuuu/medieval-michaeng
 
-### Estructura del repo
+Este es el repo público con toda la biblia del proyecto organizada en Obsidian. **Consulta siempre los archivos del repo antes de generar contenido.** Para leer un archivo, haz fetch a: `https://github.com/Maryluuuuu/medieval-michaeng/blob/main/[RUTA DEL ARCHIVO]`
+
+### Estructura actual del repo
 ```
 medieval-michaeng/
-├── timeline.md ✅
-├── parejas.md ✅
-├── hilos-activos.md ✅
-├── personajes/
-│   ├── mina.md ✅
-│   ├── chaeyoung.md ✅
-│   ├── nayeon.md ← SIGUIENTE
-│   ├── jihyo.md ← SIGUIENTE
-│   └── secundarios.md (Momo, Dahyun, Sana, Tzuyu, Jeongyeon, Miyoung) ← después
-├── canon/
+├── Timeline.md ✅
+├── Parejas.md ✅
+├── Hilos Activos.md ✅
+├── License.md ✅
+├── Personajes/
+│   ├── Mina.md ✅
+│   ├── Chaeyoung.md ✅
+│   ├── Nayeon.md ← SIGUIENTE
+│   ├── Jihyo.md ← SIGUIENTE
+│   └── Secundarios.md ← después (Momo, Dahyun, Sana, Tzuyu, Jeongyeon, Miyoung)
+├── Canon/ (pendiente)
 │   ├── caps-1-4.md
 │   ├── cap-5.md
 │   ├── cap-6.md
 │   ├── cap-7.md
 │   └── cap-8-plan.md
-├── worldbuilding/
+├── Worldbuilding/ (pendiente)
 │   ├── verenthaal.md (banco de palabras + sistema de la lengua)
 │   ├── magia.md (poderes, profecía, Velo Nocturno, conexión bidireccional)
 │   └── geografia.md
-└── capitulos/
+└── Capitulos/ (textos finales — se copian de Notion)
 ```
 
-### Estado de la migración
-- **Fase 1 ✅ Completa:** timeline.md, parejas.md, hilos-activos.md (en raíz del repo)
-- **Fase 2 — En progreso:** Perfiles de personajes
-  - ✅ mina.md — Perfil completo migrado con correcciones (eliminada escena de celos inexistente del Cap. 7, Bryndell en vez de Ashford, robo de libros es Cap. 5 no Cap. 3)
-  - ✅ chaeyoung.md — Perfil completo migrado con correcciones (Bryndell, títulos Verenthaal Gardayn/Vyrnhert agregados)
-  - 📝 nayeon.md — Por hacer. Tiene perfil base en la biblia (pendiente de profundizar). Hay material en el canon de Caps. 5-7 para enriquecer.
-  - 📝 jihyo.md — Por hacer. Mismo caso que Nayeon.
-  - 📝 secundarios.md — Por hacer. Desarrollo más profundo necesario (Sana, Jeongyeon, Momo, Dahyun, Tzuyu, Miyoung).
-- **Fase 3 — Pendiente:** Canon detallado por capítulo (carpeta canon/)
-- **Fase 4 — Pendiente:** Worldbuilding (verenthaal.md, magia.md, geografia.md)
+## Estado de la migración
 
-### Plan para esta sesión
-1. Migrar y enriquecer **nayeon.md** y **jihyo.md** — usar los perfiles base + todo el material de los capítulos escritos para darles profundidad real.
-2. Si da tiempo, empezar **secundarios.md** — aquí es trabajo de desarrollo, no solo migración.
+**Fase 1 ✅ Completa:** Timeline, Parejas, Hilos Activos (raíz del repo)
 
-### Correcciones globales (ya aplicadas en archivos completados, aplicar a todos los nuevos)
-- El pueblo de Miyoung se llama **Bryndell** (NO Ashford)
-- La referencia a "escena de celos en el Capítulo 7" en el perfil de Mina **NO EXISTE** — ya fue eliminada
+**Fase 2 — En progreso:** Perfiles de personajes
+- ✅ Mina.md — Completo. Correcciones aplicadas (eliminada escena de celos inexistente del Cap. 7, Bryndell en vez de Ashford, robo de libros es Cap. 5 no Cap. 3)
+- ✅ Chaeyoung.md — Completo. Correcciones aplicadas (Bryndell, títulos Verenthaal Gardayn/Vyrnhert)
+- 📝 Nayeon.md — Por hacer. Tiene perfil base pendiente de profundizar. Hay material en canon de Caps. 5-7.
+- 📝 Jihyo.md — Por hacer. Mismo caso.
+- 📝 Secundarios.md — Por hacer. Desarrollo más profundo necesario.
+
+**Fase 3 — Pendiente:** Canon detallado por capítulo (carpeta Canon/)
+**Fase 4 — Pendiente:** Worldbuilding (verenthaal.md, magia.md, geografia.md)
+
+## Plan para esta sesión
+1. Migrar y enriquecer **Nayeon.md** y **Jihyo.md** — perfiles base + material de capítulos escritos.
+2. Si da tiempo, empezar **Secundarios.md**.
+
+## Correcciones globales (aplicar a todos los archivos nuevos)
+- Pueblo de Miyoung = **Bryndell** (NO Ashford)
+- "Escena de celos en Cap. 7" **NO EXISTE** — era plan anterior
 - Títulos de capítulos: 1. "Chaeyoung" / 2. "Castle Life" / 3. "Infiltration" / 4. "The Aftermath" / 5. "The Forbidden Books" / 6. "The Trap" (preliminar) / 7. "The Valley Between Hills"
 
-### Nota
-Consulta SIEMPRE los archivos del proyecto antes de generar contenido. Genera un archivo a la vez como artefacto para que lo copie a Obsidian.
+## Flujo de trabajo
+- Consulta el repo para verificar coherencia antes de generar contenido.
+- Genera un archivo a la vez como artefacto para que lo copie a Obsidian.
+- Al final de cada sesión donde se defina algo nuevo, genera resumen de qué actualizar.
+
+## Nota sobre Project Knowledge
+Los PDFs adjuntos al proyecto son la versión VIEJA de la biblia. El repo es la fuente de verdad. Si hay conflicto entre un PDF y el repo, el repo gana. Los PDFs se irán eliminando conforme avance la migración.
