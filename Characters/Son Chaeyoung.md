@@ -2,7 +2,7 @@
 - **Edad:** 24 años
 - **Rol:** Teniente de los Caballeros Reales / Segunda al mando de Jihyo / Guardia Personal de Mina
 - **Conocida como:** La mejor espada del reino (subestimada por su tamaño)
-- **Título en Verenthaal:** Gardayn (título formal de guardia personal, Cap. 8) → Vyrnhert (título verdadero del protector, la bisabuela lo usa en Cap. 9)
+- **Título en Verenthaal:** #Gardayn (título formal de guardia personal, Cap. 8) #Vyrnhert (título verdadero del protector, la bisabuela lo usa en Cap. 9)
 
 ---
 

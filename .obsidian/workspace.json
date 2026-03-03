@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulos/1. Chaeyoung (EN).md",
+                "file": "Chapters/1. Chaeyoung (EN).md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulos/4. The aftermath (EN).md",
+                "file": "Chapters/4. The aftermath (EN).md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulos/5. The Forbidden Books (EN).md",
+                "file": "Chapters/5. The Forbidden Books (EN).md",
                 "mode": "source",
                 "source": false
               },
@@ -55,13 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulos/5. The Forbidden Books (EN).md",
+                "file": "Context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5. The Forbidden Books (EN)"
+              "title": "Context"
             }
           }
         ],
@@ -105,7 +105,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -228,27 +228,27 @@
   },
   "active": "c85bcb2cd56850cd",
   "lastOpenFiles": [
-    "Capitulos/4. The aftermath (EN).md",
-    "Capitulos/5. The Forbidden Books (EN).md",
+    "Characters/Son Chaeyoung.md",
+    "Chapters/1. Chaeyoung (EN).md",
+    "Chapters/5. The Forbidden Books (EN).md",
+    "Chapters/4. The aftermath (EN).md",
     "Capitulos/6..md",
-    "Capitulos/3. Infiltration.md",
-    "Capitulos/2. Castle Life (EN).md",
-    "Capitulos/1. Chaeyoung (EN).md",
-    "Contexto de la sesión anterior.md",
-    "Personajes/Secundarios.md",
-    "Personajes/Jihyo.md",
-    "Personajes/Nayeon.md",
-    "Personajes/Son Chaeyoung.md",
-    "Personajes/Princesa Mina.md",
+    "Chapters/3. Infiltration.md",
+    "Chapters/2. Castle Life (EN).md",
+    "Context.md",
+    "Characters/Secundarios.md",
+    "Characters/Jihyo.md",
+    "Characters/Nayeon.md",
+    "Characters/Princesa Mina.md",
     "Hilos Activos.md",
     "README.md",
     "License.md",
     "Parejas.md",
     "Timeline.md",
     "Prueba Sync.md",
-    "Capitulos",
+    "Chapters",
     "WorldBuilding",
     "Canon",
-    "Personajes"
+    "Characters"
   ]
 }
