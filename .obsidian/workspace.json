@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secundarios.md",
+                "file": "Personajes/Secundarios.md",
                 "mode": "source",
                 "source": false
               },
@@ -225,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd0dd21479d7087d",
+  "active": "9a33d9d2fa9ffab9",
   "lastOpenFiles": [
     "Personajes/Jihyo.md",
-    "Secundarios.md",
+    "Personajes/Secundarios.md",
     "Personajes/Nayeon.md",
     "Personajes/Son Chaeyoung.md",
     "Personajes/Princesa Mina.md",
