@@ -42,6 +42,7 @@ https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Son%20Chaey
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Nayeon.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Jihyo.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Secundarios.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Contexto%20de%20la%20sesi%C3%B3n%20anterior.md
 ```
 
 ## Estado de la migración
