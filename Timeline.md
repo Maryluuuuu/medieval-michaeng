@@ -2,9 +2,6 @@
 tags:
   - timeline
 ---
-
-# Timeline
-
 ## Project Status
 
 Chapters 1–4 published. Ch. 5 written (English, final edit). Chs. 6–7 written (full draft in Spanish). Ch. 8+ to be written.
