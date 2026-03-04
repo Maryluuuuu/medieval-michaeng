@@ -50,6 +50,8 @@ https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/2.%20Castle%2
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/3.%20Infiltration.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/4.%20The%20aftermath%20(EN).md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/5.%20The%20Forbidden%20Books%20(EN).md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/6.%20The%20Trap.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/7.%20The%20Valley%20Between%20Hills.md
 ```
 
 ## Language Policy
