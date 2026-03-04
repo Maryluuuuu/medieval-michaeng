@@ -34,15 +34,9 @@ medieval-michaeng/
 ### Repo URLs for direct fetch
 
 ```
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Timeline.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Couples.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Active%20Threads.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Princess%20Mina.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Son%20Chaeyoung.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Nayeon.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Jihyo.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Supporting%20Characters.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Context.md
+https://github.com/Maryluuuuu/medieval-michaeng/edit/main/Context.md
+https://github.com/Maryluuuuu/medieval-michaeng/edit/main/Couples.md
+
 ```
 
 ## Language Policy
