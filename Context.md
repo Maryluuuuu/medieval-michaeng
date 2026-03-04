@@ -37,7 +37,19 @@ medieval-michaeng/
 https://github.com/Maryluuuuu/medieval-michaeng/edit/main/Context.md
 https://github.com/Maryluuuuu/medieval-michaeng/edit/main/Couples.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Timeline.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Context.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Active%20Threads.md
+https://github.com/Maryluuuuu/medieval-michaeng/tree/main/Characters
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Jihyo.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Nayeon.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Princess%20Mina.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Son%20Chaeyoung.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Supporting%20Characters.md
+https://github.com/Maryluuuuu/medieval-michaeng/tree/main/Chapters
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/1.%20Chaeyoung%20(EN).md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/2.%20Castle%20Life%20(EN).md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/3.%20Infiltration.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/4.%20The%20aftermath%20(EN).md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Chapters/5.%20The%20Forbidden%20Books%20(EN).md
 ```
 
 ## Language Policy
