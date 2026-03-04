@@ -1,127 +1,133 @@
-## Información básica
-- **Edad:** 26 años
-- **Rol:** Capitana de los Caballeros Reales / Superiora directa de Chaeyoung
-- **Apodo:** (Por definir)
+---
+tags:
+  - character/main
+  - sahyo
+---
+## Basic information
+
+- **Age:** 26
+- **Role:** Captain of the Royal Knights / Chaeyoung's direct superior
+- **Nickname:** TBD
 
 ---
 
-## Contraste central con Chaeyoung
+## Core contrast with Chaeyoung
 
 |Jihyo|Chaeyoung|
 |---|---|
-|El deber es su identidad|El deber es su escondite|
-|Se sacrifica por obligación|Se sacrifica porque no se valora|
-|Ganó su rango por mérito|Ganó su reputación por instinto|
-|No sabe existir fuera del trabajo|No sabe existir fuera de la protección|
-|Necesita a alguien que la desestabilice|Necesita a alguien que la ancle|
-|Temida y respetada|Subestimada y letal|
+|Duty is her identity|Duty is her hiding place|
+|Sacrifices herself out of obligation|Sacrifices herself because she doesn't value herself|
+|Earned her rank through merit|Earned her reputation through instinct|
+|Doesn't know how to exist outside work|Doesn't know how to exist outside protection|
+|Needs someone to destabilize her|Needs someone to anchor her|
+|Feared and respected|Underestimated and lethal|
 
-**Lo que comparten:** Un respeto que no necesita palabras. Después del basilisco, Jihyo y Chaeyoung se entienden con miradas, silencios y frases de una palabra. Son compañeras de batalla en el sentido más puro — la confianza de saber que la otra no huirá.
-
----
-
-## Personalidad
-
-**En la superficie:** Disciplinada, seria, exigente consigo misma y con los demás. Ganó su rango por mérito puro y no tolera la incompetencia. Es respetada y temida a partes iguales. Cuando entra en una habitación, la gente se endereza. No porque grite — porque no necesita hacerlo.
-
-**Por debajo:** No sabe existir fuera de su rol. No tiene hobbies, no tiene vida social fuera de sus compañeros, no se permite descansar. Su identidad está completamente fusionada con su trabajo. Si le quitas la espada y el título, no sabe quién es. Eso no la angustia — la angustia la idea de averiguarlo.
-
-**Mente operativa:** Jihyo piensa en sistemas, no en intuiciones. Donde Momo busca lo que "no encaja" por instinto, Jihyo mapea patrones. La investigación del cuchillo (Cap. 5) lo demuestra: lleva el cuchillo a la forja, conecta la marca de lote con una comisión militar, asigna turnos de observación a Momo, cruza la información de Dahyun. Tres hilos paralelos que ella converge en un mapa al final del capítulo. Callen tiene forma porque Jihyo le dio forma.
-
-**Defecto central:** Rigidez emocional. No por falta de sentimiento — por exceso de control sobre él. Jihyo siente profundamente pero ha construido una arquitectura completa para que eso no se note. El problema no es que sea fría — es que no sabe qué hacer con el calor. (Sana va a ser un problema enorme.)
-
-**Lo que la hace enojar:** La cobardía. La traición. Que alguien bajo su mando falle por negligencia, no por incapacidad. En Cap. 1, le da un puñetazo al caballero que abandonó a Chaeyoung durante el basilisco — furia pura, sin cálculo. Chaeyoung tiene que frenarla.
-
-**Lo que la hace feliz:** Una misión ejecutada limpiamente. El respeto de alguien que ella respeta. Las cenas con el grupo (aunque no lo admitiría). Y algo que descubrirá gradualmente: alguien que la mire y le diga "deberías sonreír más" sin que suene a crítica.
+**What they share:** A respect that needs no words. After the basilisk, Jihyo and Chaeyoung understand each other with glances, silences, and one-word phrases. They are battle companions in the purest sense — the trust of knowing the other won't run.
 
 ---
 
-## La espada como identidad
+## Personality
 
-Jihyo se hizo capitana a los veinticuatro años. Nadie se lo regaló. Viene de una familia sin nombre, sin conexiones, sin ventaja. Todo lo que tiene lo ganó con la espada en la mano y la espalda contra el muro.
+**On the surface:** Disciplined, serious, demanding of herself and others. She earned her rank through pure merit and does not tolerate incompetence. She is respected and feared in equal measure. When she walks into a room, people straighten up. Not because she shouts — because she doesn't need to.
 
-Eso la hace brillante como líder y desastrosa como persona. No tiene marco de referencia fuera de la estructura militar. Las relaciones humanas que entiende son: subordinado, superior, aliado, enemigo. Sana no entra en ninguna categoría, y eso la desestabiliza por completo.
+**Underneath:** She doesn't know how to exist outside her role. She has no hobbies, no social life outside her companions, doesn't allow herself to rest. Her identity is completely fused with her work. Take away the sword and the title and she doesn't know who she is. That doesn't trouble her — what troubles her is the idea of finding out.
 
-Lo que nadie le ha dicho (y Sana eventualmente le mostrará): la disciplina no es lo mismo que la fortaleza. Descansar no es desertar. Y permitirse ser vulnerable no la hace menos capitana — la hace humana.
+**Operative mind:** Jihyo thinks in systems, not intuitions. Where Momo looks for what "doesn't fit" by instinct, Jihyo maps patterns. The knife investigation (Ch. 5) shows this: she takes the knife to the forge, connects the lot mark to a military commission, assigns Momo to observation shifts, cross-references Dahyun's findings. Three parallel threads that she converges into a map at the end of the chapter. Callen takes shape because Jihyo gave him shape.
 
-El pañuelo de seda de Sana vive en el bolsillo interior de su uniforme desde Cap. 6. Jihyo no lo ha sacado. No ha hablado de ello. No ha pensado en por qué no lo ha sacado. (Mentira. Piensa en eso cuando debería pensar en traidores.)
+**Core flaw:** Emotional rigidity. Not from lack of feeling — from excess control over it. Jihyo feels deeply but has built a complete architecture to make sure it doesn't show. The problem isn't that she's cold — it's that she doesn't know what to do with warmth. (Sana is going to be an enormous problem.)
 
----
+**What makes her angry:** Cowardice. Betrayal. Someone under her command failing through negligence, not incapacity. In Ch. 1, she punches the knight who abandoned Chaeyoung during the basilisk — pure fury, no calculation. Chaeyoung has to hold her back.
 
-## Relaciones
-
-**Chaeyoung:** La relación más definida de Jihyo fuera de la cadena de mando. Empezó resentida por tener a alguien más joven como segunda al mando — una asignación que no pidió. El episodio del basilisco (Cap. 1 flashback) lo cambió todo. Jihyo vio a Chaeyoung montarse en una criatura que debería haberla matado, no por heroísmo sino porque era el único plan. Cuando Chaeyoung bajó de la criatura, las manos sangrando y el cuerpo destrozado, Jihyo la miró y pensó: _Maybe it wasn't so bad that they assigned her to me._ Desde entonces: confianza absoluta. "Lieutenant" / "Captain" — intercambio que suena a saludo militar y significa _te respeto como igual_. Jihyo la recomendó para guardia de Mina. En Cap. 5, le firma el permiso para Bryndell sin drama — rutina entre personas que no necesitan explicarse.
-
-**Nayeon:** Canal directo de información. Jihyo reporta sin especulación: hechos puros, sin adornos. "I'm closer than yesterday. Not close enough." La promesa — "You'll have it" — pesa más que un juramento. Si falla, el fracaso es solo suyo. Nayeon confía en Jihyo implícitamente. Jihyo no abusa de esa confianza y no la cuestiona. Es la relación profesional más limpia del fic.
-
-**Momo:** La herramienta más caótica de su arsenal. Jihyo sabe que Momo es un desastre logístico (destroza la mesa de calibración de Dahyun, se pierde en el castillo, come con la boca llena) y un prodigio en combate. Más importante: Momo observa por instinto lo que Jihyo mapea con lógica. Momo no piensa en palabras — piensa en "formas y ritmos," busca "lo que no encaja." Cuando Jihyo necesita ojos dentro del castillo, Momo es su elección. No porque sea la más lista, sino porque es la más honesta con lo que ve.
-
-**Dahyun:** Respeto por su mente. Jihyo es de las pocas personas que toma en serio a Dahyun cuando pasa de la herrera entusiasta a "la que estudia." Cuando Dahyun dice "Patience, Captain. Metal speaks, but it doesn't shout," Jihyo escucha. La investigación del cuchillo funciona porque Jihyo confía en la expertise de Dahyun sin condescender.
-
-**Sana:** → Ver sección SaHyo en `parejas.md`. El desastre en cámara lenta. Jihyo sabe lidiar con monstruos, con subordinados insolentes, con nobles arrogantes. No sabe lidiar con alguien que la mira a los ojos y le dice "deberías sonreír más." Todo el mundo sonríe cuando Sana entra en una habitación. Jihyo no. Y eso intriga a Sana — y lo que intriga a Sana se convierte en objetivo. Cap. 5: primer encuentro en el jardín. "Eres más pequeña de lo que imaginaba." Sana la desarma ("¿Siempre hablas como si leyeras un manual?"). Jihyo resbala: nota el lunar bajo el ojo izquierdo de Sana — detalle involuntario que no pertenece a ningún reporte. Segundo encuentro: las rosas, "presto atención a las cosas raras." Jihyo se va pensando en rosas cuando debería pensar en traidores. Cap. 6: el pañuelo de seda cambia de manos. "Mi nombre es Sana." Momento de vulnerabilidad real. Desde entonces, Jihyo lleva el pañuelo en el bolsillo interior del uniforme. Sana representa todo lo que Jihyo se ha negado: descanso, alegría, conexión humana fuera del deber.
+**What makes her happy:** A cleanly executed mission. The respect of someone she respects. Dinners with the group (though she wouldn't admit it). And something she will discover gradually: someone who looks at her and says "you should smile more" without it sounding like criticism.
 
 ---
 
-## Secretos
+## The sword as identity
 
-**1. Lo que sintió en el basilisco:** No miedo — alivio. Cuando la criatura la perseguía, por primera vez en su vida no tenía que pensar. Solo correr. Solo sobrevivir. La simplicidad de eso fue casi pacífica. No se lo ha contado a nadie porque suena a locura. Pero a veces, en las noches tranquilas, extraña esa claridad.
+Jihyo made captain at twenty-four. No one gave it to her. She comes from a nameless family, no connections, no advantages. Everything she has she earned with a sword in her hand and her back against the wall.
 
-**2. No sabe quién es sin la armadura:** Lo sospecha pero no lo investiga. Si se quita la capitana, ¿qué queda? La pregunta le da más miedo que cualquier criatura. Sana está a punto de obligarla a responderla.
+That makes her brilliant as a leader and disastrous as a person. She has no frame of reference outside military structure. The human relationships she understands are: subordinate, superior, ally, enemy. Sana doesn't fit into any category, and that destabilizes her completely.
 
-**3. El pañuelo:** Lo lleva encima todos los días. No lo ha lavado. No ha analizado por qué. Jihyo, que analiza todo, se niega a analizar esto. Eso debería decirle algo.
+What no one has told her (and Sana will eventually show her): discipline is not the same as strength. Resting is not deserting. And allowing herself to be vulnerable doesn't make her less of a captain — it makes her human.
 
-**4. Lo que piensa de Chaeyoung y Mina:** Lo ha notado. No lo ha reportado a Nayeon. Esto es, técnicamente, la primera vez que Jihyo guarda información que debería compartir con su cadena de mando. Lo justifica como "no hay nada concreto que reportar." Pero sabe la diferencia entre no tener evidencia y elegir no mirar.
-
----
-
-## Evolución en los capítulos
-
-**Cap. 1 — "Chaeyoung" (flashback del basilisco):** Definición completa de Jihyo en acción. El basilisco ataca un pueblo. El tercer caballero huye, dejando a Chaeyoung sola con la criatura. Jihyo lo ve, le da un puñetazo ("A child almost died and you run from the fight?!"). Chaeyoung la frena: "Captain, wait." Plan improvisado: Chaeyoung distrae, Jihyo saca al niño atrapado. Jihyo carga al chico, corta la cuerda del caballo, maneja el caos. Chaeyoung se monta en el basilisco. Cuando termina, se miran. _Someone who had saved her life. Who thought like her and was willing to sacrifice herself for the necessary cause._ "Lieutenant" / "Captain" — el respeto nace. Jihyo corrige al caballero cobarde cuando le dice "Chaeyoung" sin rango: "When you address her, it's Lieutenant Chaeyoung." Primera defensa pública. En el presente: cena en el castillo con el grupo. Jihyo está cuando Nayeon ofrece el puesto a Chaeyoung.
-
-**Cap. 2 — "Castle Life":** Entrenamiento con Chaeyoung. Establece la dinámica de trabajo. Jihyo la recomendó para el puesto de guardia de Mina — detalle que confirma que la confianza post-basilisco es operativa, no solo personal.
-
-**Cap. 3-4 — "Infiltration" / "The Aftermath":** Reporta a Nayeon post-ataque. Dirige la respuesta inmediata. Profesionalismo bajo presión.
-
-**Cap. 5 — "The Forbidden Books":** El capítulo de Jihyo como investigadora. Lleva el cuchillo del infiltrador a la forja → Dahyun descubre la marca de lote (comisión militar, no genérica). Asigna a Momo turnos adicionales de observación interna (medianoche a seis): corredor del muro sur, accesos del ala este, pasaje armería-celdas. Momo reporta: Callen pasando tres veces en dos días por el corredor del ala este, fuera de su puesto. Jihyo conecta los tres hilos al final del capítulo: el cuchillo, los movimientos de Callen, el registro de lote. "Callen tiene forma." Reporta a Nayeon: "I'm closer than yesterday. Not close enough." / "You'll have it." **SaHyo:** Primer encuentro con Sana en el jardín interior. Sana medio escondida en un banco. Jihyo nota el lunar. "Deberías sentarte alguna vez." Segundo encuentro: rosas. Se va pensando en flores cuando debería pensar en traidores.
-
-**Cap. 6 — "La trampa":** Jihyo como estratega. La trampa es suya — Momo como ojos, Chaeyoung como espada, ella como arquitecta. Pelea: Callen + dos caballeros traidoras. Momo letal sin transición. Chaeyoung contra Callen (hombro herido). Jihyo coordina. Post-pelea: el pañuelo de seda de Sana. "Mi nombre es Sana." Momento que rompe el esquema — vulnerabilidad inesperada en medio de la crisis.
-
-**Cap. 7 — "The Valley Between Hills":** Firma el permiso de Chaeyoung para Bryndell sin drama. A Nayeon: "No puede estar en mejores manos que las de Chaeyoung." La frase que Nayeon necesita para soltar. El pañuelo sigue en el bolsillo interior (continuidad silenciosa). Sin escena propia con Sana — pero la ausencia habla.
-
-**Cap. 8 (planeado):** Cumpleaños de Sana. Sana le pide bailar. El pañuelo en el bolsillo mientras baila. Todo lo que Jihyo ha construido para mantener el control se tambalea con una mano extendida y una sonrisa.
+Sana's silk handkerchief has lived in the inner pocket of her uniform since Ch. 6. Jihyo hasn't taken it out. She hasn't talked about it. She hasn't thought about why she hasn't taken it out. (A lie. She thinks about it when she should be thinking about traitors.)
 
 ---
 
-## Arco general
+## Relationships
 
-**Inicio — La capitana perfecta:** Jihyo es deber hecho persona. Su rango, su disciplina, su control — todo encaja. No necesita nada más. (O eso se dice.)
+**Chaeyoung:** The most defined relationship Jihyo has outside the chain of command. It started with resentment at having someone younger as a second — an assignment she didn't ask for. The basilisk episode (Ch. 1 flashback) changed everything. Jihyo watched Chaeyoung climb onto a creature that should have killed her, not out of heroism but because it was the only plan. When Chaeyoung came down, hands bleeding and body destroyed, Jihyo looked at her and thought: _Maybe it wasn't so bad that they assigned her to me._ Since then: absolute trust. "Lieutenant" / "Captain" — an exchange that sounds like a military greeting and means _I respect you as an equal._ Jihyo recommended her for Mina's guard. In Ch. 7, she signs Chaeyoung's permit for Bryndell without drama — routine between people who don't need to explain themselves.
 
-**Desarrollo — La grieta tiene nombre:** Sana. El primer encuentro en el jardín no debería importar. El lunar no debería importar. Las rosas no deberían importar. Pero Jihyo piensa en rosas cuando debería pensar en traidores, y eso es un problema que no puede resolver con una espada.
+**Nayeon:** Direct information channel. Jihyo reports without speculation: pure facts, no embellishment. "I'm closer than yesterday. Not close enough." The promise — "You'll have it" — weighs more than an oath. If she fails, the failure is hers alone. Nayeon trusts Jihyo implicitly. Jihyo doesn't abuse that trust and doesn't question it. The cleanest professional relationship in the fic.
 
-**Conflicto — Deber vs. deseo:** Jihyo no sabe que existe una versión de sí misma que no lleva armadura. Sana la está obligando a mirar. El conflicto no es "¿me gusta una princesa?" — es "¿soy alguien fuera de mi trabajo?" La respuesta la aterra más que cualquier basilisco.
+**Momo:** The most chaotic tool in her arsenal. Jihyo knows Momo is a logistical disaster (destroys Dahyun's calibration table, gets lost in the castle, talks with her mouth full) and a prodigy in combat. More importantly: Momo observes by instinct what Jihyo maps with logic. Momo doesn't think in words — she thinks in "shapes and rhythms," looks for "what doesn't fit." When Jihyo needs eyes inside the castle, Momo is her choice. Not because she's the smartest, but because she's the most honest about what she sees.
 
-**Crisis futura — El momento sin armadura:** Una situación donde la capitana no sirva. Donde Jihyo-la-persona tenga que aparecer — sin rango, sin estrategia, sin control. Posiblemente frente a Sana. Posiblemente porque Sana esté en peligro y Jihyo descubra que lo que siente no es un accidente sino la cosa más real que ha sentido.
+**Dahyun:** Respect for her mind. Jihyo is one of the few people who takes Dahyun seriously when she shifts from enthusiastic blacksmith to "the one who studies." When Dahyun says "Patience, Captain. Metal speaks, but it doesn't shout," Jihyo listens. The knife investigation works because Jihyo trusts Dahyun's expertise without condescending.
 
-**Resolución — Vivir, no solo servir:** Jihyo aprenderá que la vida es más que servicio. Que permitirse ser vulnerable no la hace menos fuerte. Que el descanso, la alegría, la conexión humana fuera del deber no son lujos — son lo que hace que el deber valga la pena.
-
----
-
-## Voz narrativa
-
-**En servicio:** Precisa, seca, sin adornos. No gasta palabras. Las órdenes son claras y las expectativas más. "I'm closer than yesterday. Not close enough" es Jihyo destilada: reporte, autocrítica y promesa en una frase.
-
-**Con Chaeyoung:** Se relaja un grado — el humor seco sale. "Lieutenant" suena a camaradería, no a jerarquía. Es la relación donde más se nota que Jihyo es persona además de capitana.
-
-**Con Momo:** Paciencia sostenida con hilos invisibles. Sabe que Momo va a destruir algo, sabe que va a decir algo fuera de lugar, lo tolera porque Momo produce resultados y porque (aunque no lo admitiría) la hace reír.
-
-**Con Sana:** Se rompe el esquema. Las frases salen torpes. Los silencios son incómodos en vez de estratégicos. Nota detalles que no debería notar (lunares, flores). Es la única persona que la hace hablar como si no estuviera leyendo un manual.
-
-**Con Nayeon:** Reporta. Respeta. No adula. Jihyo le habla a Nayeon como se le habla a alguien que merece la verdad, no la versión cómoda de la verdad.
+**Sana:** → See SaHyo section in `Couples.md`. The slow-motion disaster. Jihyo knows how to handle monsters, insolent subordinates, arrogant nobles. She doesn't know how to handle someone who looks her in the eyes and says "you should smile more." Everyone smiles when Sana enters a room. Jihyo doesn't. And that intrigues Sana — and what intrigues Sana becomes a target. Ch. 5: first encounter in the garden. "You're smaller than I imagined." Sana disarms her ("Do you always talk like you're reading from a manual?"). Jihyo slips: she notices the mole under Sana's left eye — an involuntary detail that belongs to no report. Second encounter: the roses, "I pay attention to rare things." Jihyo leaves thinking about roses when she should be thinking about traitors. Ch. 6: the silk handkerchief changes hands. "My name is Sana." A moment of real vulnerability. Since then, Jihyo carries the handkerchief in her inner uniform pocket. Sana represents everything Jihyo has denied herself: rest, joy, human connection outside of duty.
 
 ---
 
-## Correcciones aplicadas
+## Secrets
 
-- ✅ Pueblo de Miyoung = Bryndell (no Ashford).
-- ❌ ELIMINADA: Cualquier referencia a "escena de celos en el Capítulo 7" — no existe.
-- ✅ Canon de Caps. 1-7 integrado con detalle.
+**1. What she felt during the basilisk:** Not fear — relief. When the creature was chasing her, for the first time in her life she didn't have to think. Just run. Just survive. The simplicity of it was almost peaceful. She hasn't told anyone because it sounds like madness. But sometimes, on quiet nights, she misses that clarity.
+
+**2. She doesn't know who she is without the armor:** She suspects but doesn't investigate. If she takes off the captain, what's left? The question frightens her more than any creature. Sana is about to force her to answer it.
+
+**3. The handkerchief:** She carries it every day. She hasn't washed it. She hasn't analyzed why. Jihyo, who analyzes everything, refuses to analyze this. That should tell her something.
+
+**4. What she thinks about Chaeyoung and Mina:** She's noticed. She hasn't reported it to Nayeon. This is, technically, the first time Jihyo withholds information she should share with her chain of command. She justifies it as "nothing concrete to report." But she knows the difference between having no evidence and choosing not to look.
+
+---
+
+## Progression through chapters
+
+**Ch. 1 — "Chaeyoung" (basilisk flashback):** Full definition of Jihyo in action. The basilisk attacks a village. The third knight runs, leaving Chaeyoung alone with the creature. Jihyo sees it, punches him ("A child almost died and you run from the fight?!"). Chaeyoung holds her back: "Captain, wait." Improvised plan: Chaeyoung distracts, Jihyo gets the trapped child out. Jihyo carries the boy, cuts the horse's rope, manages the chaos. Chaeyoung climbs the basilisk. When it's over, they look at each other. _Someone who had saved her life. Who thought like her and was willing to sacrifice herself for the necessary cause._ "Lieutenant" / "Captain" — respect is born. Jihyo corrects the cowardly knight when he addresses "Chaeyoung" without rank: "When you address her, it's Lieutenant Chaeyoung." First public defense. Present: dinner at the castle with the group. Jihyo is there when Nayeon offers Chaeyoung the post.
+
+**Ch. 2 — "Castle Life":** Training with Chaeyoung. Establishes the working dynamic. She recommended Chaeyoung for Mina's guard — detail confirming that the post-basilisk trust is operational, not just personal.
+
+**Ch. 3–4 — "Infiltration" / "The Aftermath":** Reports to Nayeon post-attack. Leads the immediate response. Professionalism under pressure.
+
+**Ch. 5 — "The Forbidden Books":** Jihyo's chapter as investigator. Takes the infiltrator's knife to the forge → Dahyun finds the lot mark (military commission, not generic). Assigns Momo to additional internal observation shifts (midnight to six): south wall corridor, east wing access points, armory-cells passage. Momo reports: Callen passing three times in two days through the east wing corridor, away from his post. Jihyo connects the three threads at the end of the chapter. "Callen takes shape." Reports to Nayeon: "I'm closer than yesterday. Not close enough." / "You'll have it." **SaHyo:** First encounter with Sana in the inner garden. Sana half-hidden on a bench. Jihyo notices the mole. "You should sit down sometime." Second encounter: roses. Leaves thinking about flowers when she should be thinking about traitors.
+
+**Ch. 6 — "The Trap":** Jihyo as strategist. The trap is hers — Momo as eyes, Chaeyoung as sword, she as architect. Fight: Callen + two traitorous knights. Momo lethal with no transition. Chaeyoung vs. Callen (wounded shoulder). Jihyo coordinates. Post-fight: Sana's silk handkerchief. "My name is Sana." A moment that breaks the pattern — unexpected vulnerability in the middle of a crisis.
+
+**Ch. 7 — "The Valley Between Hills":** Signs Chaeyoung's permit for Bryndell without drama. To Nayeon: "She couldn't be in better hands than Chaeyoung's." The sentence Nayeon needs to let go. The handkerchief remains in her inner pocket (silent continuity). No scene of her own with Sana — but the absence speaks.
+
+**Ch. 8 (planned):** Sana's birthday. Sana asks her to dance. The handkerchief in her pocket while they dance. Everything Jihyo has built to maintain control wavers with one extended hand and a smile.
+
+---
+
+## Overall arc
+
+**Beginning — The perfect captain:** Jihyo is duty made person. Her rank, her discipline, her control — everything fits. She doesn't need anything else. (Or so she tells herself.)
+
+**Development — The crack has a name:** Sana. The first garden encounter shouldn't matter. The mole shouldn't matter. The roses shouldn't matter. But Jihyo thinks about roses when she should be thinking about traitors, and that is a problem she can't solve with a sword.
+
+**Conflict — Duty vs. desire:** Jihyo doesn't know there's a version of herself that doesn't wear armor. Sana is forcing her to look. The conflict isn't "do I like a princess?" — it's "am I someone outside my work?" The answer frightens her more than any basilisk.
+
+**Future crisis — The moment without armor:** A situation where the captain won't do. Where Jihyo-the-person has to show up — without rank, without strategy, without control. Possibly in front of Sana. Possibly because Sana is in danger and Jihyo discovers that what she feels isn't an accident but the most real thing she has ever felt.
+
+**Resolution — Living, not just serving:** Jihyo will learn that life is more than service. That allowing herself to be vulnerable doesn't make her less strong. That rest, joy, human connection outside of duty aren't luxuries — they're what makes duty worth it.
+
+---
+
+## Narrative voice
+
+**On duty:** Precise, dry, no embellishment. She doesn't waste words. Orders are clear and expectations clearer. "I'm closer than yesterday. Not close enough" is Jihyo distilled: report, self-critique, and promise in one sentence.
+
+**With Chaeyoung:** Relaxes one degree — the dry humor comes out. "Lieutenant" sounds like camaraderie, not hierarchy. It's the relationship where it's most obvious that Jihyo is a person as well as a captain.
+
+**With Momo:** Sustained patience held by invisible threads. She knows Momo is going to break something, knows she's going to say something off, tolerates it because Momo produces results and because (though she wouldn't admit it) she makes her laugh.
+
+**With Sana:** The pattern breaks. Sentences come out clumsy. Silences are uncomfortable instead of strategic. She notices details she shouldn't (moles, flowers). She is the only person who makes her talk as if she weren't reading from a manual.
+
+**With Nayeon:** She reports. She respects. She doesn't flatter. Jihyo speaks to Nayeon the way you speak to someone who deserves the truth, not the comfortable version of it.
+
+---
+
+## Corrections applied
+
+- ✅ Miyoung's village = Bryndell (not Ashford).
+- ❌ REMOVED: Any reference to "jealousy scene in Chapter 7" — does not exist.
+- ✅ Canon of Chs. 1–7 integrated in detail.

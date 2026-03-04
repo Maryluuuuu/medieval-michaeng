@@ -1,142 +1,158 @@
-## Información básica
-- **Edad:** 24 años
-- **Rol:** Teniente de los Caballeros Reales / Segunda al mando de Jihyo / Guardia Personal de Mina
-- **Conocida como:** La mejor espada del reino (subestimada por su tamaño)
-- **Título en Verenthaal:** #Gardayn (título formal de guardia personal, Cap. 8) #Vyrnhert (título verdadero del protector, la bisabuela lo usa en Cap. 9)
+---
+tags:
+  - character/main
+  - michaeng
+  - "#PrincessMina"
+  - SonChaeyoung
+---
+## Basic information
+
+- **Age:** 24
+- **Role:** Lieutenant of the Royal Knights / Jihyo's second-in-command / Mina's personal guard
+- **Known as:** The best blade in the kingdom (consistently underestimated for her size)
+- **Title in Verenthaal:** Gardayn (formal title for personal guard, Ch. 8) → Vyrnhert (true title of the protector, used by the great-grandmother in Ch. 9)
 
 ---
 
-## Personalidad
+## Personality
 
-**En la superficie:** Disciplinada, leal, competente, callada. Soldado ejemplar. Subestimada constantemente por su tamaño — lo usa a su favor. Más pequeña que la mayoría de los caballeros, pero más rápida, más precisa y más brutal.
+**On the surface:** Disciplined, loyal, competent, quiet. An exemplary soldier. Constantly underestimated for her size — she uses it to her advantage. Smaller than most knights, but faster, more precise, and more brutal.
 
-**Por debajo:** Rota de formas que no muestra. Carga culpa por los que no pudo salvar, vergüenza por no ser suficiente para su madre, miedo constante de llegar tarde. Se esconde detrás del deber porque si siempre está trabajando, nunca tiene que enfrentar lo que siente.
+**Underneath:** Broken in ways she doesn't show. She carries guilt for those she couldn't save, shame for not being enough for her mother, a constant fear of arriving too late. She hides behind duty because if she's always working, she never has to face what she feels.
 
-**Humor seco** con personas de confianza (Jihyo, Jeongyeon, Dahyun). Con desconocidos o superiores es formal y contenida. Con Mina, empieza rígida y gradualmente deja escapar fragmentos de quién es.
+**Dry humor** with people she trusts (Jihyo, Jeongyeon, Dahyun). With strangers or superiors she is formal and contained. With Mina, she starts rigid and gradually lets fragments of who she is slip through.
 
-**Defecto central:** Se sacrifica compulsivamente. No porque sea noble — porque no cree que su vida valga tanto como la de otros. Siempre elige arriesgarse ella.
+**Core flaw:** Compulsive self-sacrifice. Not out of nobility — because she doesn't believe her life is worth as much as others'. She always chooses to take the risk herself.
 
-**Lo que la hace enojar:** La cobardía. Abandonar a inocentes. Que traten a la gente como desechable. (Referencia: caballero cobarde en flashback del basilisco, Cap. 1.)
+**What makes her angry:** Cowardice. Abandoning innocents. Treating people as disposable. (Reference: the cowardly knight in the basilisk flashback, Ch. 1.)
 
-**Lo que la hace feliz:** Momentos tranquilos con amigos en la cena. La voz de su padre en su memoria. Cricket. Y eventualmente, las tardes de té con Mina.
-
----
-
-## Trasfondo
-
-### Origen
-Nació en Hwaren, pueblo pequeño en las colinas del norte.
-
-### Familia
-
-**Son Hajoon (padre):** Caballero. Le enseñó a usar la espada desde pequeña. Descendiente de la Orden del Velo Nocturno sin saberlo completamente. Le dio la espada diciéndole solo que era "una herencia familiar." Tenía planeado investigar y contarle a Chaeyoung cuando fuera mayor. Murió peleando contra monstruos meses antes del incendio de Hwaren.
-
-**Son Miyoung (madre):** Herbolaria de Hwaren. Sobrevivió al incendio pero el humo le destruyó los pulmones. Perdió la voz gradualmente — primero ronca, luego susurro, finalmente silencio. Se comunica en lengua de señas. Vive en Bryndell, pueblo a medio día de caballo del castillo. Días buenos: cultiva hierbas en el jardín. Días malos: apenas puede sostener una taza. Tratamiento: té diario de raíz de silviana, pétalos de luna y corteza de árbol de hierro (preparado por Tzuyu).
-
-**Tzuyu (hermana menor):** Curandera real del castillo. → Ver `personajes/secundarios.md`.
-
-### El incendio de Hwaren
-La noche que lo cambió todo. Miyoung estaba preparando ungüentos cuando las paredes empezaron a arder. El humo la encontró antes que las llamas. Para cuando Chaeyoung derribó la puerta, ya había respirado demasiado.
-
-**La elección (Secreto 2):** Tuvo que elegir entre su madre inconsciente y la señora Park atrapada en la casa de al lado. No podía cargar a las dos. Eligió a su madre. Cuando volvió, la casa había colapsado. La decisión fue correcta. Pero la señora Park gritó su nombre. Y Chaeyoung no fue.
+**What makes her happy:** Quiet moments with friends at dinner. Her father's voice in her memory. Cricket. And eventually, afternoon tea with Mina.
 
 ---
 
-## Relaciones
+## Background
 
-**Jihyo:** Empezó resentida por tener a alguien más joven como segunda al mando. El basilisco lo cambió todo. Ahora confía en Chaeyoung con su vida. Respeto mutuo profundo que no necesita palabras. Compañeras de batalla en el sentido más puro. Jihyo la recomendó para el puesto de guardia de Mina.
+### Origin
 
-**Jeongyeon:** Amistad genuina. Una de las pocas personas con quien se relaja. Humor seco compartido. Silencio cómodo. En Cap. 7: "¿Tu madre la aprobó?" (silencio = respuesta). Sonrisa que dice *por fin*.
+Born in Hwaren, a small village in the northern hills.
 
-**Dahyun:** Amistad cercana. Puede hacer reír a Chaeyoung sin esfuerzo. Le dio el lockpick como "broma" — Chaeyoung lo afiló. Dahyun es quien eventualmente descubre la conexión entre la espada y el Velo Nocturno.
+### Family
 
-**Momo:** Compañeras de guardia. Dinámica funcional. Momo es caos, Chaeyoung es estructura, se complementan.
+**Son Hajoon (father):** A knight. He taught her to use the sword from a young age. A descendant of the Night Veil Order, though not fully aware of it. He gave her the sword, telling her only that it was "a family heirloom." He had planned to investigate and tell Chaeyoung when she was older. He died fighting monsters months before the Hwaren fire.
 
-**Mina:** → Ver sección de evolución más abajo y `parejas.md`.
+**Son Miyoung (mother):** Herbalist from Hwaren. She survived the fire, but the smoke destroyed her lungs. She lost her voice gradually — first hoarse, then a whisper, then silence. She communicates in sign language. She lives in Bryndell, half a day's ride from the castle. Good days: she tends herbs in the garden. Bad days: she can barely hold a cup. Treatment: daily tea of silviana root, moon petals, and ironwood bark (prepared by Tzuyu).
 
-**Miyoung (Cap. 7):** Se arrodilla, le toma las manos. Miyoung lee el hombro malo sin que se lo digan. Vergüenza de no saber lengua de señas — años eligiendo la espada sobre su madre. "No sé" como respuesta honesta por primera vez (vs. "estoy bien"). "Me pidió que te cuide." Se transforma en Bryndell: de guardia a hija. Desarmada.
+**Tzuyu (younger sister):** Royal healer at the castle. → See `Characters/Supporting Cast.md`.
 
----
+### The Hwaren fire
 
-## Los Velo Nocturno — La Orden Olvidada
+The night that changed everything. Miyoung was preparing ointments when the walls began to burn. The smoke found her before the flames did. By the time Chaeyoung broke the door down, she had already breathed in too much.
 
-Orden antigua que juraba lealtad a la profecía, no a reyes. Propósito: proteger a la tercera hija. Los siglos pasaron, la Orden se desvaneció. Los descendientes olvidaron. Pero la sangre recuerda.
-
-### La espada
-- Forjada con **Nocturnio**, metal de las Montañas Grises.
-- Nunca pierde filo, nunca se oxida. Más ligera y fuerte que cualquier acero.
-- Grabados = hechizos de protección en lenguaje arcano.
-- En presencia de amenazas a la tercera hija: grabados brillan, metal vibra.
-- Metal con reflejos azulados, como luz de luna atrapada en hierro.
-- **Ubicación actual:** Envuelta en tela, fondo del baúl de Chaeyoung. No la usa — miedo de que se rompa, de perder lo único tangible de su padre, de lo que significa que un simple caballero tuviera una espada así.
-
-### Lo que heredó (sangre Velo Nocturno)
-- Reflejos sobrehumanos en peligro extremo.
-- Resistencia más allá de lo normal.
-- "Sentido" para el peligro.
-- Cerca de Mina, estos instintos se intensifican (la sangre reconoce a quien fue creada para proteger).
-- **Vakren** (pre-Verenthaal, sin nombrar aún): Visión mejorada en peligro extremo. En Cap. 6 ve el pulso de Callen, temblor de muñeca, dirección exacta del golpe. Lo atribuye a "adrenalina."
-
-### El momento Dahyun (futuro)
-Cuando Chaeyoung le lleva la espada para mantenimiento, Dahyun reconoce que el metal no existe en ningún registro. Los grabados son un lenguaje antiguo — los ha visto en un libro sobre una orden antigua. Le pide días para investigar. Le dice que no le cuente a nadie. → Nombra el metal "Nocturnio" en Cap. 8 (Verenthaal Fase 1).
-
-### Conexión bidireccional
-La sangre de Chaeyoung reacciona a Mina (instintos se intensifican) y la magia de Mina se calma cerca de Chaeyoung. La Orden fue creada para proteger Y estabilizar el poder de la profetizada. La sangre no solo protege físicamente — ancla la magia.
+**The choice (Secret 2):** She had to choose between her unconscious mother and Mrs. Park trapped in the house next door. She couldn't carry both. She chose her mother. When she came back, the house had collapsed. The decision was right. But Mrs. Park screamed her name. And Chaeyoung didn't come.
 
 ---
 
-## Secretos
+## Relationships
 
-**1. La conversación con papá:** Le habla a su padre en su cabeza. Cuando está sola, cuando camina por los pasillos, cuando limpia su espada — le cuenta su día. A veces su padre responde con consejos de cuando era niña. Su voz se está volviendo borrosa. El día que olvide cómo sonaba será el día que lo pierda de verdad.
+**Jihyo:** It started with resentment at having someone younger as a superior. The basilisk changed everything. She now trusts Jihyo with her life. Deep mutual respect that doesn't need words. True battle companions in the purest sense. Jihyo recommended her for the position of Mina's guard.
 
-**2. La elección:** La noche del incendio. Eligió a su madre sobre la señora Park. La decisión fue correcta. Pero la señora Park gritó su nombre.
+**Jeongyeon:** A genuine friendship. One of the few people around whom she relaxes. Shared dry humor. Comfortable silence. In Ch. 7: "Did your mother approve?" (silence = answer). A smile that says _finally_.
 
-**3. El valor de su vida:** No cree que su vida valga tanto como la de otros. No busca la muerte, pero si muere protegiendo a alguien, al menos tendrá significado.
+**Dahyun:** Close friendship. Dahyun can make Chaeyoung laugh without trying. She gave her the lockpick as a "joke" — Chaeyoung sharpened it. Dahyun is the one who will eventually discover the connection between the sword and the Night Veil.
 
-**4. Lo que despierta:** En peligro extremo algo cambia — reflejos imposibles, fuerza aumentada, ojos que ven diferente (colores intensificados, pulso visible en las venas del enemigo). Dura segundos. Cree que es adrenalina. Recuerda que su padre también tenía momentos así.
+**Momo:** Guard companions. A functional dynamic. Momo is chaos, Chaeyoung is structure — they complement each other.
 
----
+**Mina:** → See evolution section below and `Couples.md`.
 
-## Evolución en los capítulos
-
-**Cap. 1 — "Chaeyoung":** Batalla de trolls (presente). Flashback del basilisco con Jihyo — origen de la confianza. Caballero cobarde que abandona a Chaeyoung → ella lo confronta con espada al cuello. Jihyo corrige: "Lieutenant." Cena en el castillo con el grupo. Nayeon ofrece el puesto. Conoce a Mina en la terraza — formalidad total.
-
-**Cap. 2 — "Castle Life":** Primer día como guardia. Entrenamiento con Jihyo. Desayuno con las hermanas (Sana la interroga). Nayeon explica la profecía. Primeras dinámicas con Mina.
-
-**Cap. 3 — "Infiltration":** Neutraliza un infiltrador (muere), otro escapa. Cuchillo en el hombro izquierdo.
-
-**Cap. 4 — "The Aftermath":** "I'll try." La distancia se acorta un centímetro.
-
-**Cap. 5 — "The Forbidden Books":** Rutina matutina detallada (despierta por sonido, flexiona brazo para medir rango, pelo en 8 segundos vs. 3 por el hombro). Registra sonidos nocturnos de Mina sin querer. Acepta el robo por curiosidad genuina — interés personal, no conflicto profesional. Momento de la columna (la pega a la pared, mira todo excepto a Mina, luego mira abajo una fracción de segundo). "Another day, Your Highness." "El lugar sin nombre" — espacio interno donde guarda todo lo relacionado con Mina. Se está llenando.
-
-**Cap. 6 — "The Trap":** Pelea con Callen. Golpe inteligente al hombro izquierdo. "Get up" (callback Cap. 1, versión interna). Vakren se activa sin nombrarlo. Avanza seis pasos contra la presión del despertar de Mina. Hombro colapsa. Se toman las manos. "Mina" sin título por primera vez.
-
-**Cap. 7 — "The Valley Between Hills":** Se transforma en Bryndell: de guardia a hija. "Mi madre va a adorarte" (piensa *mi princesa*, no se corrige — dos veces). Vergüenza de no saber señas. "No sé" por primera vez. "Soy mala para las cosas que no son espadas." / "Entonces te enseño." "Tenías razón" a Tzuyu. Practica señas sola en la oscuridad después de la primera lección. Dice "Mina" a secas en la colina — suena como en la habitación rota.
-
-**Cap. 8 (planeado):** Cuenta sobre Hwaren en la terraza ("Otro día" se cumple parcialmente). Baila con Mina. "Yo la veo." Hombro ~2 semanas post-puntos nuevos, mejorando.
+**Miyoung (Ch. 7):** She kneels, takes her hands. Miyoung reads the bad shoulder without being told. Shame at not knowing sign language — years of choosing the sword over her mother. "I don't know" as an honest answer for the first time (vs. "I'm fine"). "She asked me to take care of you." She transforms in Bryndell: from guard to daughter. Disarmed.
 
 ---
 
-## Arco general
+## The Night Veil — The Forgotten Order
 
-**Inicio — La mártir silenciosa:** Vive para proteger a otros. Su vida tiene valor como herramienta — espada, escudo. No piensa en el futuro porque no espera tener uno largo.
+An ancient order sworn to the prophecy, not to kings. Purpose: protect the third daughter. Centuries passed, the Order faded. The descendants forgot. But the blood remembers.
 
-**Desarrollo — La princesa que lee poesía:** Mina representa paz, silencio, té, poesía, lecciones de señas. Chaeyoung empieza a querer vivir, no solo sobrevivir. Y eso la aterra.
+### The sword
 
-**Conflicto — El peso de merecerlo:** ¿Merece ser feliz cuando no pudo salvar a todos esa noche? ¿Merece amar cuando la señora Park murió gritando su nombre? Mina le dirá que sí. Chaeyoung tendrá que decidir si le cree.
+- Forged with **Nocturnio**, metal from the Grey Mountains.
+- Never loses its edge, never rusts. Lighter and stronger than any steel.
+- Engravings = protection spells in an arcane language.
+- In the presence of threats to the third daughter: engravings glow, metal vibrates.
+- Metal with blue undertones, like moonlight trapped in iron.
+- **Current location:** Wrapped in cloth, at the bottom of Chaeyoung's chest. She doesn't use it — fear of breaking it, of losing the only tangible thing left of her father, of what it means that a simple knight had a sword like that.
 
-**Revelación — El legado:** Descubrirá la verdad sobre su padre, el Velo Nocturno, y por qué cada instinto le dice que proteger a esta princesa es lo más importante que hará. ¿La protege por destino o porque la ama? La respuesta será ambas cosas. Y eso estará bien.
+### What she inherited (Night Veil blood)
 
-**Resolución — Vivir, no solo sobrevivir:** Pedir ayuda no es fallar. Su padre no habría querido que muriera joven. Mina la necesita viva — no como mártir, sino como Chaeyoung. La verdadera valentía a veces es elegir vivir.
+- Superhuman reflexes in extreme danger.
+- Endurance beyond normal limits.
+- A "sense" for danger.
+- Near Mina, these instincts intensify (the blood recognizes the one it was made to protect).
+- **Vakren** (pre-Verenthaal, not yet named): Enhanced vision in extreme danger. In Ch. 6 she sees Callen's pulse, wrist tremor, the exact direction of the strike. She attributes it to "adrenaline."
+
+### The Dahyun moment (future)
+
+When Chaeyoung brings the sword to Dahyun for maintenance, Dahyun recognizes that the metal doesn't exist in any record. The engravings are an ancient language — she's seen them in a book about an old order. She asks for days to research. She tells Chaeyoung not to tell anyone. → She names the metal "Nocturnio" in Ch. 8 (Verenthaal Phase 1).
+
+### Bidirectional connection
+
+Chaeyoung's blood reacts to Mina (instincts intensify) and Mina's magic calms near Chaeyoung. The Order was created to both protect AND stabilize the power of the prophesied one. The blood doesn't just protect physically — it anchors the magic.
 
 ---
 
-## El viaje a Aethermoor (futuro)
-Las amenazas se vuelven demasiado frecuentes. Nayeon decide que las respuestas pueden estar en Aethermoor. Chaeyoung irá como guardia personal, Jihyo liderará la escolta. Las Montañas Grises están en el camino. Para Chaeyoung: oportunidad de descubrir la verdad sobre su padre, su espada, y su sangre. Conexión con Tzuyu: la Aliento de Alba (flor que cura enfermedades respiratorias) crece en las Montañas Grises.
+## Secrets
+
+**1. The conversation with dad:** She talks to her father in her head. When she's alone, when she walks the corridors, when she cleans her sword — she tells him about her day. Sometimes her father answers with advice from when she was a child. His voice is starting to blur. The day she forgets how he sounded will be the day she truly loses him.
+
+**2. The choice:** The night of the fire. She chose her mother over Mrs. Park. The decision was right. But Mrs. Park screamed her name.
+
+**3. The value of her life:** She doesn't believe her life is worth as much as others'. She doesn't seek death, but if she dies protecting someone, at least it will have meant something.
+
+**4. What awakens:** In extreme danger something changes — impossible reflexes, increased strength, eyes that see differently (intensified colors, pulse visible in the enemy's veins). It lasts seconds. She thinks it's adrenaline. She remembers that her father had moments like that too.
 
 ---
 
-## Correcciones aplicadas
-- ✅ Pueblo de Miyoung = Bryndell (no Ashford).
-- ✅ Gardayn / Vyrnhert como títulos de Verenthaal agregados.
-- ✅ Canon de Caps. 5-7 integrado con detalle.
+## Progression through chapters
+
+**Ch. 1 — "Chaeyoung":** Troll battle (present). Basilisk flashback with Jihyo — origin of the trust. Cowardly knight who abandons Chaeyoung → she confronts him with a sword at his throat. Jihyo corrects: "Lieutenant." Dinner at the castle with the group. Nayeon offers the post. Meets Mina on the terrace — full formality.
+
+**Ch. 2 — "Castle Life":** First day as guard. Training with Jihyo. Breakfast with the sisters (Sana interrogates her). Nayeon explains the prophecy. First dynamics with Mina.
+
+**Ch. 3 — "Infiltration":** Neutralizes one infiltrator (dies), another escapes. Knife wound to the left shoulder.
+
+**Ch. 4 — "The Aftermath":** "I'll try." The distance shortens by one centimeter.
+
+**Ch. 5 — "The Forbidden Books":** Detailed morning routine (wakes by sound, flexes arm to measure range, hair in 8 seconds vs. 3 because of the shoulder). Registers Mina's nighttime sounds without meaning to. Accepts the theft out of genuine curiosity — personal interest, not professional conflict. Column moment (pins her to the wall, looks at everything except Mina, then glances down a fraction of a second). "Another day, Your Highness." "The nameless place" — internal space where she stores everything related to Mina. It's filling up.
+
+**Ch. 6 — "The Trap":** Fight with Callen. Intelligent strike to the left shoulder. "Get up" (callback Ch. 1, internal version). Vakren activates without being named. Advances six steps against the pressure of Mina's awakening. Shoulder collapses. They take each other's hands. "Mina" without a title for the first time.
+
+**Ch. 7 — "The Valley Between Hills":** Transforms in Bryndell: from guard to daughter. "My mother is going to love you" (thinks _my princess_, doesn't correct herself — twice). Shame at not knowing sign language. "I don't know" for the first time. "I'm bad at things that aren't swords." / "Then I'll teach you." "You were right" to Tzuyu. Practices sign language alone in the dark after the first lesson. Says "Mina" plainly on the hill — it sounds like it did in the broken room.
+
+**Ch. 8 (planned):** Tells Mina about Hwaren on the terrace ("Another day" partially fulfilled). Dances with Mina. "I see you." Shoulder ~2 weeks post new stitches, improving.
+
+---
+
+## Overall arc
+
+**Beginning — The silent martyr:** She lives to protect others. Her life has value as a tool — sword, shield. She doesn't think about the future because she doesn't expect to have a long one.
+
+**Development — The princess who reads poetry:** Mina represents peace, silence, tea, poetry, sign language lessons. Chaeyoung begins to want to live, not just survive. And that terrifies her.
+
+**Conflict — The weight of deserving it:** Does she deserve to be happy when she couldn't save everyone that night? Does she deserve to love when Mrs. Park died screaming her name? Mina will tell her yes. Chaeyoung will have to decide whether to believe her.
+
+**Revelation — The legacy:** She will discover the truth about her father, the Night Veil, and why every instinct tells her that protecting this princess is the most important thing she will ever do. Does she protect her out of destiny or because she loves her? The answer will be both. And that will be all right.
+
+**Resolution — Living, not just surviving:** Asking for help isn't failing. Her father wouldn't have wanted her to die young. Mina needs her alive — not as a martyr, but as Chaeyoung. Real courage is sometimes choosing to live.
+
+---
+
+## The journey to Aethermoor (future)
+
+The threats become too frequent. Nayeon decides the answers may lie in Aethermoor. Chaeyoung will go as personal guard, Jihyo will lead the escort. The Grey Mountains are along the way. For Chaeyoung: an opportunity to discover the truth about her father, her sword, and her blood. Connection with Tzuyu: the Dawn's Breath flower (which heals respiratory illness) grows in the Grey Mountains.
+
+---
+
+## Corrections applied
+
+- ✅ Miyoung's village = Bryndell (not Ashford).
+- ✅ Gardayn / Vyrnhert as Verenthaal titles added.
+- ✅ Canon of Chs. 5–7 integrated in detail.

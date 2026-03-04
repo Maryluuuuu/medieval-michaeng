@@ -8,27 +8,27 @@ This is the public repo containing the full project bible organized in Obsidian.
 
 ```
 medieval-michaeng/
-├── Timeline.md ✅ (needs EN migration)
-├── Parejas.md ✅ (needs EN migration)
-├── Hilos Activos.md ✅ (needs EN migration)
+├── Timeline.md ✅
+├── Couples.md ✅
+├── Active Threads.md ✅
 ├── License.md ✅
-├── Personajes/
-│   ├── Princesa Mina.md ✅ (needs EN migration)
-│   ├── Son Chaeyoung.md ✅ (needs EN migration)
-│   ├── Nayeon.md ✅ (needs EN migration)
-│   ├── Jihyo.md ✅ (needs EN migration)
-│   └── Secundarios.md ✅ (needs EN migration — Sana, Jeongyeon, Momo, Dahyun, Tzuyu, Miyoung)
-├── Canon/ ← PHASE 3 (after EN migration)
+├── Context.md ✅
+├── Characters/
+│   ├── Princess Mina.md ✅
+│   ├── Son Chaeyoung.md ✅
+│   ├── Nayeon.md ✅
+│   ├── Jihyo.md ✅
+│   └── Supporting Cast.md ✅
+├── Canon/ ← PHASE 3 (next)
 │   ├── caps-1-4.md
 │   ├── cap-5.md
 │   ├── cap-6.md
 │   ├── cap-7.md
 │   └── cap-8-plan.md
-├── Worldbuilding/ (pending — Phase 4)
-│   ├── verenthaal.md (word bank + language system)
-│   ├── magic.md (powers, prophecy, Night Veil, bidirectional connection)
-│   └── geography.md
-└── Chapters/ (final texts — copied from Notion)
+└── Worldbuilding/ ← PHASE 4
+    ├── verenthaal.md
+    ├── magic.md
+    └── geography.md
 ```
 
 ### Repo URLs for direct fetch
@@ -37,15 +37,13 @@ medieval-michaeng/
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Timeline.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Couples.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Active%20Threads.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Princesa%20Mina.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Son%20Chaeyoung.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Nayeon.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Jihyo.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Secundarios.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Princess%20Mina.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Son%20Chaeyoung.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Nayeon.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Jihyo.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Supporting%20Cast.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Context.md
 ```
-
-**Note:** These URLs may change after EN migration (file renames). Update this section once migration is done.
 
 ## Language Policy
 
@@ -55,25 +53,19 @@ https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Context.md
 
 ## Migration Status
 
-**Phase 1 ✅ Complete:** Timeline, Parejas, Hilos Activos (repo root) — _content done, needs EN migration_
+**Phase 1 ✅ Complete:** Timeline, Couples, Active Threads (repo root)
 
-**Phase 2 ✅ Complete:** Character profiles — _content done, needs EN migration_
+**Phase 2 ✅ Complete:** Character profiles
 
-- ✅ Princesa Mina.md
-- ✅ Son Chaeyoung.md
-- ✅ Nayeon.md (includes narrative voice section)
-- ✅ Jihyo.md (includes narrative voice section)
-- ✅ Secundarios.md (Sana, Jeongyeon, Momo, Dahyun, Tzuyu, Miyoung — compact)
+- ✅ Characters/Princess Mina.md
+- ✅ Characters/Son Chaeyoung.md
+- ✅ Characters/Nayeon.md
+- ✅ Characters/Jihyo.md
+- ✅ Characters/Supporting Cast.md
 
-**Phase 2.5 — In progress: English migration** Translate all 8 existing repo files from Spanish to English. This includes:
+**Phase 2.5 ✅ Complete:** English migration of all 8 files. Files translated, renamed, and updated with YAML frontmatter and tags. Old Spanish files (`Parejas.md`, `Hilos Activos.md`, `Personajes/`) to be deleted from repo.
 
-- Renaming files to English (e.g., `Parejas.md` → `Couples.md`, `Hilos Activos.md` → `Active Threads.md`, `Personajes/` → `Characters/`, `Secundarios.md` → `Supporting Cast.md`)
-- Translating all content while preserving structure, canon details, and in-world terms
-- Keeping Verenthaal terms, character names, and in-world proper nouns unchanged
-- Updating internal cross-references (e.g., `→ see parejas.md` becomes `→ see couples.md`)
-- Adding YAML frontmatter with tags to each file during migration
-
-**Phase 3 — Pending:** Detailed canon per chapter (Canon/ folder) — in English
+**Phase 3 — Next: Canon/ folder** (in English)
 
 - 📝 caps-1-4.md
 - 📝 cap-5.md
@@ -85,12 +77,13 @@ https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Context.md
 
 ## Plan for Next Session
 
-1. **English migration (Phase 2.5):** Translate and rename all 8 existing files. Add YAML frontmatter with tags. One file at a time as artifact.
-2. Once migration is done, proceed to **Phase 3** (Canon/).
+1. **Phase 3:** Build the Canon/ folder. One file at a time as artifact.
+    - Source: PDF "Actualización de Biblia — Caps. 5 6 7 Decisiones Estructurales" for Chs. 5–7 (most detailed canon). Chapter PDFs for Chs. 1–4.
+2. Once Canon/ is done, proceed to **Phase 4** (Worldbuilding/).
 
-## Tag System (to implement during EN migration)
+## Tag System
 
-```yaml
+```
 # By type
 - character/main
 - character/supporting
@@ -111,7 +104,7 @@ https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Context.md
 - investigation
 ```
 
-## Global Corrections (apply to all new/migrated files)
+## Global Corrections (apply to all files)
 
 - Miyoung's village = **Bryndell** (NOT Ashford)
 - "Jealousy scene in Ch. 7" **DOES NOT EXIST** — was a previous plan, already removed
