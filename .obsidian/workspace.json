@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. The Valley Between Hills.md",
+                "file": "Chapters/7. The Valley Between Hills.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee699dcda290a7d",
+  "active": "9a33d9d2fa9ffab9",
   "lastOpenFiles": [
     "Chapters/6. The Trap.md",
-    "7. The Valley Between Hills.md",
+    "Chapters/7. The Valley Between Hills.md",
     "Context.md",
     "Characters/Supporting Characters.md",
     "Active Threads.md",
