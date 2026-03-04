@@ -35,8 +35,8 @@ medieval-michaeng/
 
 ```
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Timeline.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Parejas.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Hilos%20Activos.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Couples.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Active%20Threads.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Princesa%20Mina.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Son%20Chaeyoung.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Personajes/Nayeon.md

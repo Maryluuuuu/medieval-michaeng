@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Threads.md",
+                "file": "Context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Active Threads"
+              "title": "Context"
             }
           },
           {
@@ -199,9 +199,9 @@
   },
   "active": "c85bcb2cd56850cd",
   "lastOpenFiles": [
+    "Active Threads.md",
     "Timeline.md",
     "Couples.md",
-    "Active Threads.md",
     "Context.md",
     "Characters/Son Chaeyoung.md",
     "Chapters/1. Chaeyoung (EN).md",
