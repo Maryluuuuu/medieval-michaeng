@@ -41,7 +41,7 @@ https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Princess%20
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Son%20Chaeyoung.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Nayeon.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Jihyo.md
-https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Supporting%20Cast.md
+https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Characters/Supporting%20Characters.md
 https://github.com/Maryluuuuu/medieval-michaeng/blob/main/Context.md
 ```
 
