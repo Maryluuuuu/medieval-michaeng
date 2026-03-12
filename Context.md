@@ -52,6 +52,7 @@ https://raw.githubusercontent.com/Maryluuuuu/medieval-michaeng/refs/heads/main/C
 https://raw.githubusercontent.com/Maryluuuuu/medieval-michaeng/refs/heads/main/Chapters/5.%20The%20Forbidden%20Books%20(EN).md
 https://raw.githubusercontent.com/Maryluuuuu/medieval-michaeng/refs/heads/main/Chapters/6.%20The%20Trap.md
 https://raw.githubusercontent.com/Maryluuuuu/medieval-michaeng/refs/heads/main/Chapters/7.%20The%20Valley%20Between%20Hills.md
+https://raw.githubusercontent.com/Maryluuuuu/medieval-michaeng/refs/heads/main/Chapters/8.%20Chap%208.md
 ```
 
 ## Language Policy
@@ -59,6 +60,11 @@ https://raw.githubusercontent.com/Maryluuuuu/medieval-michaeng/refs/heads/main/C
 - **All project material** (profiles, canon, worldbuilding, tags, chapters, planning notes): **English**
 - **Conversations** between us: **Spanish**
 - **Chapters** are written in English as the base working language. Spanish versions, if needed, are translations.
+
+## Punctuation Rules
+
+- No em dashes (—). Replace with a period, comma, or semicolon depending on context.
+- Dialogue uses quotation marks: "Like this."
 
 ## Migration Status
 
