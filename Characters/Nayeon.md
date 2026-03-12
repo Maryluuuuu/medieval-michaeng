@@ -6,8 +6,8 @@ tags:
 ## Basic information
 
 - **Age:** 27
-- **Title:** First Princess of Twiceland / Heir to the throne
-- **Dynastic name:** Adelais (used only in oaths and coronations, Ch. 9)
+- **Title:** #FirstPrincessofTwiceland / #HeirtotheThrone / #CrownPrincess
+- **Dynastic name:** #Adelais (used only in oaths and coronations, Ch. 9)
 - **Nickname:** TBD
 
 ---
