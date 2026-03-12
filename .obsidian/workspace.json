@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Chap 8.md",
+                "file": "Chapters/8. Chap 8.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Context.md",
+                "file": "Chapters/8. Chap 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context"
+              "title": "8. Chap 8"
             }
           }
         ],
@@ -211,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee699dcda290a7d",
+  "active": "9a33d9d2fa9ffab9",
   "lastOpenFiles": [
-    "8. Chap 8.md",
     "Context.md",
+    "Chapters/8. Chap 8.md",
     "Chapters/7. The Valley Between Hills.md",
     "Chapters/6. The Trap.md",
     "Characters/Nayeon.md",
